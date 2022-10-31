@@ -1,0 +1,10 @@
+- Covered
+  - Students Learning
+  - Students Teaching
+    - Teaching Assistants
+  - Teachers Teaching
+- Not Covered
+  - Faculty Researching
+  - Students Helping Faculty Researching
+    - Research Assistants
+  - Staff
